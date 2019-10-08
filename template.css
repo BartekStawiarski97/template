@@ -1,0 +1,48 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+*{
+  font-family: 'Roboto', sans-serif;
+  color: rgba(255, 255, 255, 0.8)
+}
+body {
+  background-image: url('achtergrond.jpg');
+  background-size: cover;
+}
+
+img {
+ display: inline-block;
+ width: 20%;
+ height: 20%;
+ padding: 15% 0% 0% 38%;
+}
+
+.navbar {
+  width: 100%;
+  background-color: white;
+  border-right: 6% solid grey;
+  height: 40px;
+  text-align: right;
+}
+
+.navlink {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: white;
+  background-color: grey;
+}
+#icons{
+  display:inline-block;
+  width: 50%;
+  margin: 50px 12px 0px 688px;
+  word-spacing: 49px;
+}
+#menu{
+  display: inline-block;
+  margin: 10px 10px 30px 688px;
+  word-spacing: 19px
+}
